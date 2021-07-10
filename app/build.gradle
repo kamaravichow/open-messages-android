@@ -44,6 +44,9 @@ dependencies {
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
+    implementation 'com.klinkerapps:android-smsmms:5.2.6'
+    implementation 'me.zhanghai.android.fastscroll:library:1.1.7'
+
 
 
 
